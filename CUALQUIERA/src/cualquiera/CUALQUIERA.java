@@ -16,7 +16,7 @@ public class CUALQUIERA {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.printf("Hola");
+        System.out.printf("Hola Mundo Loco");
     }
     
 }
